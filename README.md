@@ -24,14 +24,46 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+
+**Developer.java**
+
 ```java
-public class Developer {
-    String name = "Abdullah Shahriar";
-    String role = "CSE Undergraduate";
-    String[] languages = {"C", "Java", "Python"};
-    String[] strengths = {"Problem Solving", "Logic Building", "Clean Code"};
-}
+ 1  public class Developer {
+ 2      // Personal Information
+ 3      private String name = "Abdullah Shahriar";
+ 4      private String role = "CSE Undergraduate";
+ 5      private String location = "Bangladesh";
+ 6      
+ 7      // Technical Skills
+ 8      private String[] languages = {"C", "Java", "Python"};
+ 9      private String[] strengths = {
+10          "Problem Solving",
+11          "Logic Building",
+12          "Clean Code",
+13          "Algorithm Design"
+14      };
+15      
+16      // Current Status
+17      public void status() {
+18          System.out.println("🎯 Focus: Software Engineering & AI");
+19          System.out.println("📚 Learning: Advanced Algorithms");
+20          System.out.println("🏆 Achievement: Hackathon Winner");
+21          System.out.println("🚀 Goal: Build impactful solutions");
+22      }
+23      
+24      // Philosophy
+25      public String getPhilosophy() {
+26          return "Consistency > Intensity | Growth > Perfection";
+27      }
+28  }
 ```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -142,22 +174,6 @@ public class Developer {
 ### 💻 Languages & Tools
 
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,git,github,vscode,linux&perline=5&theme=dark" alt="Tech Stack with Logos" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abdullah-Shahriar&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF006E&custom_title=Coding%20Activity%20Metrics&layout=compact" alt="Coding Stats" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:00D9FF,FF006E&height=80&section=header&animation=twinkling" />
 
 </div>
 
