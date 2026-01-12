@@ -18,7 +18,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+## 👋 About Me
 
 ```java
 public class Developer {
@@ -75,31 +75,6 @@ public class Developer {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Featured Project
-
-<div align="center">
-
-### **Uni Serve** — University Assistant System
-
-<img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/Type-CLI%20Application-green?style=for-the-badge" alt="CLI"/>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status"/>
-
-</div>
-
-A comprehensive command-line application built in **C** to streamline university administrative workflows. This project demonstrates proficiency in modular programming, file I/O operations, and building user-centric CLI interfaces from scratch.
-
-**Core Features:**
-- Student information management with file-based persistence
-- Course registration and academic tracking system
-- Intuitive menu-driven interface for seamless navigation
-- Modular architecture ensuring maintainability and scalability
-
-**Technical Highlights:**
-- Pure C implementation with no external dependencies
-- Structured programming with clear separation of concerns
-- Efficient file handling for data storage and retrieval
-- Input validation and error handling mechanisms
 
 <br>
 
@@ -110,17 +85,17 @@ A comprehensive command-line application built in **C** to streamline university
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/128/744/744984.png" width="60px"/>
+      <h2>🏆</h2>
       <h3>Winner</h3>
       <p>Secured victory in competitive<br>programming hackathons</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/128/1005/1005141.png" width="60px"/>
+      <h2>💻</h2>
       <h3>Workshop Training</h3>
       <p>Intensive preparation through<br>hands-on coding workshops</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/128/681/681443.png" width="60px"/>
+      <h2>🤝</h2>
       <h3>Team Player</h3>
       <p>Strong collaboration and<br>presentation skills</p>
     </td>
@@ -177,12 +152,16 @@ mindmap
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shahriar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shahriar&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shahriar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shahriar&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Abdullah-Shahriar&theme=dark&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Shahriar&theme=github-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
 <br>
