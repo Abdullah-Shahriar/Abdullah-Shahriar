@@ -20,7 +20,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=👨‍💻%20ABOUT%20ME&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -71,13 +73,19 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=header&text=🛠️%20TECH%20STACK&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,git,github,vscode,linux&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=c,java,cpp,python,git,github,linux&perline=7&theme=dark" alt="Tech Stack with Logos" />
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Problem+Solving+%7C+Algorithm+Design;Data+Structures+%7C+OOP;Logic+Building+%7C+Debugging" alt="Competencies" />
 
@@ -87,7 +95,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 Experience
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=100&section=header&text=🏆%20EXPERIENCE&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -114,7 +124,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎯 Current Focus
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=100&section=header&text=🎯%20CURRENT%20FOCUS&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -126,7 +138,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header&text=📊%20GITHUB%20ANALYTICS&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -137,8 +151,12 @@
 <br>
 
 <div align="center">
-  
-<img src="https://streak-stats.demolab.com?user=Abdullah-Shahriar&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E&border=00D9FF&stroke_width=2&ring_width=2" alt="GitHub Streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Abdullah-Shahriar?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=native&dark=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Abdullah-Shahriar?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=native">
+  <img alt="Contribution Graph" src="https://ssr-contributions-svg.vercel.app/_/Abdullah-Shahriar?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=native&dark=true">
+</picture>
 
 </div>
 
@@ -146,7 +164,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Shahriar&custom_title=🧬%20Code%20Contribution%20Matrix&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF006E&area_color=00D9FF&area=true&hide_border=true&title_color=00D9FF&radius=16" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Shahriar&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&custom_title=📈%20Commit%20Activity%20Timeline&radius=16" alt="Activity Graph" />
 
 </div>
 
@@ -154,7 +172,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Shahriar&theme=radical" alt="GitHub Stats Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Abdullah-Shahriar?chart=calendar&gap=0.8&animation=wave&animation_duration=2&animation_delay=0.04&animation_amplitude=16&format=svg&weeks=52&theme=green">
+  <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Abdullah-Shahriar?chart=calendar&gap=0.8&animation=wave&animation_duration=2&animation_delay=0.04&animation_amplitude=16&format=svg&weeks=52&theme=green">
+  <img alt="GitHub Stats" src="https://ssr-contributions-svg.vercel.app/_/Abdullah-Shahriar?chart=calendar&gap=0.8&animation=wave&animation_duration=2&animation_delay=0.04&animation_amplitude=16&format=svg&weeks=52&theme=green" width="850px">
+</picture>
 
 </div>
 
@@ -162,18 +184,22 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdullah-Shahriar&theme=radical&utcOffset=6" alt="Productive Time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Shahriar&theme=radical" alt="Repos per Language" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdullah-Shahriar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdullah-Shahriar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=100&section=header&text=💻%20LANGUAGES%20%26%20TOOLS&fontSize=38&fontColor=fff&animation=twinkling" width="100%"/>
+</div>
 
-### 💻 Languages & Tools
+<br>
 
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,git,github,vscode,linux&perline=5&theme=dark" alt="Tech Stack with Logos" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,cpp,python,git,github,linux&perline=7&theme=dark" alt="Tech Stack with Logos" />
 
 </div>
 
@@ -189,7 +215,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌐 Connect
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=100&section=header&text=🌐%20CONNECT&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
 
 <div align="center">
 
