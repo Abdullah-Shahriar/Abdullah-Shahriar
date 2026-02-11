@@ -1,0 +1,16 @@
+name: Generate Gitartwork
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'
+jobs:
+  build:
+    name: Generate SHAHRIAR Gitartwork
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+           user_name: Abdullah-Shahriar
+           text: SHAHRIAR
+      - uses: jasineri/simple-push-action@v1
