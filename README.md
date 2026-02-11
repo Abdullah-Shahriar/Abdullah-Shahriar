@@ -152,18 +152,6 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Abdullah-Shahriar?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=native&dark=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Abdullah-Shahriar?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=native">
-  <img alt="Contribution Graph" src="https://ssr-contributions-svg.vercel.app/_/Abdullah-Shahriar?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=native&dark=true">
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="gitartwork.svg" alt="Contribution Graph Name Art" />
 
 </div>

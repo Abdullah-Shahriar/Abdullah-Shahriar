@@ -69,16 +69,12 @@ random.seed(42)
 # Letter cells use ONLY bright greens for maximum visibility
 color_levels = ['--c1', '--c2', '--c1', '--c2']
 
-# Background cells: mostly dark, only ~10% get a very subtle dim green
+# Background cells: ALL dark, no green at all
 inactive_levels = {}
 for col in range(total_cols):
     for row in range(rows):
         if (col, row) not in active_cells:
-            r = random.random()
-            if r < 0.90:
-                inactive_levels[(col, row)] = 0   # 90% dark
-            else:
-                inactive_levels[(col, row)] = 1   # 10% very dim green
+            inactive_levels[(col, row)] = 0   # all dark
 
 # Build keyframes for active cells
 keyframes_css = []
@@ -122,7 +118,6 @@ lines.append("""    :root {
         outline-offset: -1px
     }
     .o[data-level="0"] { fill: var(--c0) }
-    .o[data-level="1"] { fill: #0e4429 }
     .c {
         animation-iteration-count: infinite;
         animation-duration: 6s;
