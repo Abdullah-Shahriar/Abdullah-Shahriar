@@ -66,22 +66,19 @@ svg_w = total_cols * cell_gap + 30
 svg_h = rows * cell_gap + 40
 
 random.seed(42)
-color_levels = ['--c1', '--c2', '--c3', '--c4']
+# Letter cells use ONLY bright greens for maximum visibility
+color_levels = ['--c1', '--c2', '--c1', '--c2']
 
-# Assign random dim levels to inactive cells so they look like real contribution data
+# Background cells: mostly dark, only ~10% get a very subtle dim green
 inactive_levels = {}
 for col in range(total_cols):
     for row in range(rows):
         if (col, row) not in active_cells:
             r = random.random()
-            if r < 0.65:
-                inactive_levels[(col, row)] = 0   # most are level-0
-            elif r < 0.80:
-                inactive_levels[(col, row)] = 1
-            elif r < 0.92:
-                inactive_levels[(col, row)] = 2
+            if r < 0.90:
+                inactive_levels[(col, row)] = 0   # 90% dark
             else:
-                inactive_levels[(col, row)] = 3
+                inactive_levels[(col, row)] = 1   # 10% very dim green
 
 # Build keyframes for active cells
 keyframes_css = []
@@ -126,8 +123,6 @@ lines.append("""    :root {
     }
     .o[data-level="0"] { fill: var(--c0) }
     .o[data-level="1"] { fill: #0e4429 }
-    .o[data-level="2"] { fill: #006d32 }
-    .o[data-level="3"] { fill: #0e4429 }
     .c {
         animation-iteration-count: infinite;
         animation-duration: 6s;
