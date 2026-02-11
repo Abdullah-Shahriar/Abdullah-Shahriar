@@ -91,10 +91,10 @@ for col in range(total_cols):
             kf_name = f"c{cell_idx}"
             keyframes_css.append(f"""@keyframes {kf_name} {{
     0% {{ transform: translate({tx}px, {ty}px) rotate({angle}deg); opacity: 0 }}
-    15% {{ opacity: 0.4 }}
-    60% {{ transform: translate(0, 0) rotate(0deg); opacity: 1 }}
-    75% {{ fill: var({target_color}) }}
-    100% {{ transform: translate(0, 0) rotate(0deg); opacity: 1; fill: var({target_color}) }}
+    20% {{ transform: translate({tx}px, {ty}px) rotate({angle}deg); opacity: 0 }}
+    50% {{ transform: translate(0, 0) rotate(0deg); opacity: 1; fill: var({target_color}) }}
+    75% {{ transform: translate(0, 0) rotate(0deg); opacity: 1; fill: var({target_color}) }}
+    100% {{ transform: translate({tx}px, {ty}px) rotate({angle}deg); opacity: 0 }}
 }}
 .c.{kf_name} {{ animation-name: {kf_name} }}""")
             cell_class_map[(col, row)] = kf_name
@@ -120,7 +120,7 @@ lines.append("""    :root {
     .o[data-level="0"] { fill: var(--c0) }
     .c {
         animation-iteration-count: infinite;
-        animation-duration: 6s;
+        animation-duration: 10s;
         animation-timing-function: cubic-bezier(0.22, 1, 0.36, 1);
     }""")
 for kf in keyframes_css:
