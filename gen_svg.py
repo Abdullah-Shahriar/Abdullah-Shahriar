@@ -1,5 +1,6 @@
 import random
 
+# SMIL animations (no CSS!) - GitHub strips <style> but allows <animate>/<animateTransform>
 letters = {
     'S': [[1,1,1,1],[1,0,0,0],[1,1,1,1],[0,0,0,1],[1,1,1,1]],
     'H': [[1,0,0,1],[1,0,0,1],[1,1,1,1],[1,0,0,1],[1,0,0,1]],
@@ -33,42 +34,30 @@ svg_h = 5 * pitch - gap + 2 * pad_y + 35
 
 lines = []
 lines.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{svg_w}" height="{svg_h}" viewBox="0 0 {svg_w} {svg_h}">')
-lines.append('  <defs>')
-lines.append('    <style>')
-lines.append('      @keyframes gather {')
-lines.append('        0% { opacity: 0; transform: translate(var(--dx), var(--dy)) scale(0.2) rotate(var(--r)); }')
-lines.append('        40% { opacity: 0.6; }')
-lines.append('        70% { transform: translate(calc(var(--dx)*0.05), calc(var(--dy)*0.05)) scale(1.08) rotate(0deg); }')
-lines.append('        100% { opacity: 1; transform: translate(0,0) scale(1) rotate(0deg); }')
-lines.append('      }')
-lines.append('      @keyframes pulse {')
-lines.append('        0%, 100% { opacity: 1; }')
-lines.append('        50% { opacity: 0.75; }')
-lines.append('      }')
-lines.append('      .c {')
-lines.append('        animation: gather 2s cubic-bezier(0.22, 1, 0.36, 1) forwards,')
-lines.append('                   pulse 4s ease-in-out 2.5s infinite;')
-lines.append('        opacity: 0;')
-lines.append('      }')
-lines.append('    </style>')
-lines.append('  </defs>')
 lines.append(f'  <rect width="{svg_w}" height="{svg_h}" fill="#0d1117" rx="6"/>')
 
 random.seed(42)
 colors = ['#39d353', '#26a641', '#006d32', '#39d353', '#26a641', '#39d353']
 
+total = len(cell_positions)
 for i, (cx, cy, ch) in enumerate(cell_positions):
     x = pad_x + cx * pitch
     y = pad_y + cy * pitch
     color = random.choice(colors)
-    dx = random.randint(-120, 120)
-    dy = random.randint(-90, 90)
-    rot = random.randint(-180, 180)
-    delay = round(0.03 * i + random.uniform(0, 0.4), 3)
-    style = f"--dx:{dx}px;--dy:{dy}px;--r:{rot}deg;animation-delay:{delay}s"
-    lines.append(f'  <rect class="c" x="{x}" y="{y}" width="{cell_size}" height="{cell_size}" rx="2" fill="{color}" style="{style}"/>')
+    dx = random.randint(-200, 200)
+    dy = random.randint(-150, 150)
+    delay = round(0.02 * i + random.uniform(0, 0.3), 2)
+    dur = "1.5s"
+    begin = f"{delay}s"
 
-# Decorative scattered dots
+    lines.append(f'  <rect x="{x}" y="{y}" width="{cell_size}" height="{cell_size}" rx="2" fill="{color}" opacity="0">')
+    # Fade in
+    lines.append(f'    <animate attributeName="opacity" from="0" to="1" dur="{dur}" begin="{begin}" fill="freeze"/>')
+    # Gather from random position to final position
+    lines.append(f'    <animateTransform attributeName="transform" type="translate" from="{dx} {dy}" to="0 0" dur="{dur}" begin="{begin}" fill="freeze"/>')
+    lines.append(f'  </rect>')
+
+# Decorative scattered dots at the bottom
 dec_y = pad_y + 5 * pitch + 12
 for i in range(total_cols):
     x = pad_x + i * pitch
