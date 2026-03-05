@@ -36,7 +36,7 @@
  1  public class Developer {
  2      // Personal Information
  3      private String name = "Abdullah Shahriar";
- 4      private String role = "CSE Undergraduate";
+ 4      private String role = "CS Undergraduate";
  5      private String location = "Bangladesh";
  6      
  7      // Technical Skills
