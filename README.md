@@ -1,146 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243694,50:264E86,100:27496D&height=120&section=header&text=&fontSize=0" width="100%"/>
+
+# Abdullah Shahriar
+
+**Cross-Functional Orchestration · Full Stack Development · Zero-to-One Engineering**
+
+[![Gmail](https://img.shields.io/badge/Gmail-c9d1d9?style=flat-square&logo=gmail&logoColor=0d1117)](mailto:abdullahshahriar2140@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c9d1d9?style=flat-square&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/abdullah-shahriar-a24371350/)
+[![Instagram](https://img.shields.io/badge/Instagram-c9d1d9?style=flat-square&logo=instagram&logoColor=0d1117)](https://www.instagram.com/_shahriar_tasin_/?hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-c9d1d9?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/Abdullah-Shahriar)
+
 </div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abdullah+Shahriar;CSE+Undergraduate;Problem+Solver+%7C+Code+Builder;Exploring+AI+%26+Software+Engineering" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=6B7280&center=true&vCenter=true&width=600&lines=Building+systems+that+matter;Consistency+over+intensity;Growth+over+perfection" alt="Subtitle" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullah-Shahriar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=flat" alt="Focus" />
-  <img src="https://img.shields.io/badge/Learning-Artificial%20Intelligence-purple?style=flat" alt="Learning" />
-</p>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=👨‍💻%20ABOUT%20ME&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-</div>
-
-<div align="center">
-
 <table>
 <tr>
-<td>
-
-**Developer.java**
-
-```java
- 1  public class Developer {
- 2      // Personal Information
- 3      private String name = "Abdullah Shahriar";
- 4      private String role = "CS Undergraduate";
- 5      private String location = "Bangladesh";
- 6      
- 7      // Technical Skills
- 8      private String[] languages = {"C", "Java", "Python"};
- 9      private String[] strengths = {
-10          "Problem Solving",
-11          "Logic Building",
-12          "Clean Code",
-13          "Algorithm Design"
-14      };
-15      
-16      // Current Status
-17      public void status() {
-18          System.out.println("🎯 Focus: Software Engineering & AI");
-19          System.out.println("📚 Learning: Advanced Algorithms");
-20          System.out.println("🏆 Achievement: Hackathon Winner");
-21          System.out.println("🚀 Goal: Build impactful solutions");
-22      }
-23      
-24      // Philosophy
-25      public String getPhilosophy() {
-26          return "Consistency > Intensity | Growth > Perfection";
-27      }
-28  }
-```
-
+<td width="370" valign="top">
+<img src="public/avi-ascii.svg?v=3" width="370" alt="ASCII Portrait"/>
+</td>
+<td width="490" valign="top">
+<img src="public/info-card.svg" width="490" alt="Info Card"/>
 </td>
 </tr>
 </table>
 
-</div>
-
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=header&text=🛠️%20TECH%20STACK&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-</div>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,java,cpp,python,git,github,linux&perline=7&theme=dark" alt="Tech Stack with Logos" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Problem+Solving+%7C+Algorithm+Design;Data+Structures+%7C+OOP;Logic+Building+%7C+Debugging" alt="Competencies" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=100&section=header&text=🏆%20EXPERIENCE&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h1>🏆</h1>
-      <h3>Hackathon Winner</h3>
-    </td>
-    <td align="center" width="33%">
-      <h1>💻</h1>
-      <h3>Workshop Trained</h3>
-    </td>
-    <td align="center" width="33%">
-      <h1>🚀</h1>
-      <h3>Team Player</h3>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=100&section=header&text=🎯%20CURRENT%20FOCUS&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineering;Artificial+Intelligence;Competitive+Programming;Open+Source+Contribution" alt="Focus Areas" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header&text=📊%20GITHUB%20ANALYTICS&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-</div>
+<!-- ─── GitHub Analytics ─── -->
 
 <div align="center">
 
@@ -187,48 +73,14 @@
 
 <br>
 
+<!-- ─── Contribution Heatmap (auto-updated daily) ─── -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=100&section=header&text=💻%20LANGUAGES%20%26%20TOOLS&fontSize=38&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="public/contrib-heatmap.svg" alt="Contribution Heatmap"/>
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,java,cpp,python,git,github,linux&perline=7&theme=dark" alt="Tech Stack with Logos" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&lines=while(true)+%7B+learn()+%7C%7C+build()+%7C%7C+optimize()+%7D;Commits%3A+%E2%88%9E+%7C+Bugs+Fixed%3A+9999%2B+%7C+Coffee%3A+%E2%98%95%E2%98%95%E2%98%95;push+--force+%7C%7C+commit+-m+%22life%22+%7C%7C+git+gud;%2F%2F+TODO%3A+Build+something+amazing" alt="Code Footer" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=100&section=header&text=🌐%20CONNECT&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-shahriar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-Shahriar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Open+to+internships+and+collaborative+projects;Always+learning.+Always+building.+Always+growing." alt="Footer" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243694,50:264E86,100:27496D&height=100&section=footer" width="100%"/>
+<sub>This README auto-updates daily via GitHub Actions.</sub>
 </div>

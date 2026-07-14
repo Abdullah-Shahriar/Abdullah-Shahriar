@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 370" width="490" height="370">
+<rect width="490" height="370" fill="#0d1117" rx="6" stroke="#30363d" stroke-width="1"/>
+<rect width="490" height="30" fill="#161b22" rx="6"/>
+<rect x="0" y="24" width="490" height="6" fill="#161b22"/>
+<circle cx="16" cy="15" r="5" fill="#ff5f56"/>
+<circle cx="32" cy="15" r="5" fill="#ffbd2e"/>
+<circle cx="48" cy="15" r="5" fill="#27c93f"/>
+<text x="245" y="19" text-anchor="middle" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">abdullah@dev</text>
+<style>
+
+    .info-line {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 12px;
+        opacity: 0;
+        animation: lineReveal 0.3s forwards;
+    }
+    @keyframes lineReveal {
+        0% { opacity: 0; transform: translateY(5px); }
+        100% { opacity: 1; transform: translateY(0); }
+    }
+    .blink {
+        animation: blink 1s steps(2) infinite;
+    }
+    @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+    }
+    
+</style>
+<text x="20" y="45" class="info-line" style="animation-delay: 0.00s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">ROLE  </tspan><tspan fill="#c9d1d9">CSE Undergrad · Bangladesh</tspan></text>
+<text x="20" y="65" class="info-line" style="animation-delay: 0.15s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">FOCUS  </tspan><tspan fill="#c9d1d9">Cross-Functional Orchestration</tspan></text>
+<text x="32" y="85" class="info-line" style="animation-delay: 0.30s"><tspan fill="#c9d1d9">  Full Stack Development</tspan></text>
+<text x="32" y="105" class="info-line" style="animation-delay: 0.45s"><tspan fill="#c9d1d9">  Zero-to-One Engineering</tspan></text>
+<line x1="20" y1="129" x2="470" y2="129" stroke="#30363d" stroke-width="0.5" opacity="0" style="animation: lineReveal 0.3s 0.60s forwards"/>
+<text x="20" y="137.0" class="info-line" style="animation-delay: 0.75s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">STACK  </tspan><tspan fill="#c9d1d9">Python · JavaScript · TypeScript</tspan></text>
+<text x="32" y="157.0" class="info-line" style="animation-delay: 0.90s"><tspan fill="#c9d1d9">  React · Next.js · Node.js</tspan></text>
+<text x="32" y="177.0" class="info-line" style="animation-delay: 1.05s"><tspan fill="#c9d1d9">  C · C++ · Java</tspan></text>
+<text x="32" y="197.0" class="info-line" style="animation-delay: 1.20s"><tspan fill="#c9d1d9">  Git · Linux · Docker</tspan></text>
+<line x1="20" y1="221.0" x2="470" y2="221.0" stroke="#30363d" stroke-width="0.5" opacity="0" style="animation: lineReveal 0.3s 1.35s forwards"/>
+<text x="20" y="229.0" class="info-line" style="animation-delay: 1.50s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">NOW  </tspan><tspan fill="#c9d1d9">Building systems that matter</tspan></text>
+<text x="32" y="249.0" class="info-line" style="animation-delay: 1.65s"><tspan fill="#c9d1d9">  Software Engineering &amp; AI</tspan></text>
+<line x1="20" y1="273.0" x2="470" y2="273.0" stroke="#30363d" stroke-width="0.5" opacity="0" style="animation: lineReveal 0.3s 1.80s forwards"/>
+<text x="20" y="281.0" class="info-line" style="animation-delay: 1.95s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">LINKS  </tspan><tspan fill="#c9d1d9">github.com/Abdullah-Shahriar</tspan></text>
+<text x="32" y="301.0" class="info-line" style="animation-delay: 2.10s"><tspan fill="#c9d1d9">  linkedin.com/in/abdullah-shahriar-a24371350</tspan></text>
+<text x="20" y="326.0" fill="#58a6ff" font-family="'Courier New', monospace" font-size="12" class="blink" style="animation-delay: 2.25s">❯ _</text>
+</svg>
