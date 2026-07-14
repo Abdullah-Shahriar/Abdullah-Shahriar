@@ -69,10 +69,10 @@ def generate_punchline() -> str:
     <rect width="800" height="80" fill="#0d1117" rx="6" />
     
     <!-- Line 1 -->
-    <text x="20" y="30" class="line1">My management is output based, not process based...</text>
+    <text x="20" y="30" class="line1">My management is not process based , its output based ...........</text>
     
     <!-- Line 2 -->
-    <text x="20" y="65" class="line2">because that's how I operate !!!</text>
+    <text x="20" y="65" class="line2">Because thats how I operate  !!!</text>
     <text x="365" y="65" class="cursor2">_</text>
     
 </svg>"""

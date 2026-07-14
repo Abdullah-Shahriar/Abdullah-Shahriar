@@ -15,7 +15,7 @@
 
 <!-- ─── Announcement / Punchline ─── -->
 <div align="center">
-  <img src="public/punchline.svg?v=2" alt="Punch Line" />
+  <img src="public/punchline.svg?v=3" alt="Punch Line" />
 </div>
 
 <br>
