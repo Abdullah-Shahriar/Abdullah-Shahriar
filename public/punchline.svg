@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="800" height="80">
+    <style>
+        text {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 18px;
+            fill: #FFFFFF;
+        }
+        
+        .line1 {
+            opacity: 0;
+            animation: line1Reveal 2s steps(45) forwards;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+        
+        .line2 {
+            opacity: 0;
+            animation: line2Reveal 2s steps(35) 2.5s forwards;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+
+        /* Using clip-path to simulate typewriter */
+        @keyframes line1Reveal {
+            0% { opacity: 1; clip-path: inset(0 100% 0 0); }
+            100% { opacity: 1; clip-path: inset(0 0 0 0); }
+        }
+
+        @keyframes line2Reveal {
+            0% { opacity: 1; clip-path: inset(0 100% 0 0); }
+            100% { opacity: 1; clip-path: inset(0 0 0 0); }
+        }
+        
+        .cursor1 {
+            fill: #FFFFFF;
+            animation: blink 0.5s steps(2) 5; /* blinks while typing then disappears */
+            opacity: 0;
+        }
+
+        .cursor2 {
+            fill: #FFFFFF;
+            animation: blinkInfinite 0.8s steps(2) infinite 2.5s;
+            opacity: 0;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+        
+        @keyframes blinkInfinite {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+    </style>
+    
+    <!-- Solid dark background to ensure white text is visible in light mode -->
+    <rect width="800" height="80" fill="#0d1117" rx="6" />
+    
+    <!-- Line 1 -->
+    <text x="20" y="30" class="line1">My management is output based, not process based...</text>
+    
+    <!-- Line 2 -->
+    <text x="20" y="65" class="line2">because that's how I operate !!!</text>
+    <text x="365" y="65" class="cursor2">_</text>
+    
+</svg>

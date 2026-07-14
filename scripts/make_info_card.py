@@ -7,21 +7,20 @@ Writes: info-card.svg
 """
 
 # ────────────────────── CONFIG (edit your details here) ──────────────────────
-HOST = "abdullah@dev"
+HOST = "Welcome To shahriar City"
 
 ROWS = [
-    ("ROLE",       "CSE Undergrad · Bangladesh"),
-    ("FOCUS",      "Cross-Functional Orchestration"),
-    ("",           "Full Stack Development"),
-    ("",           "Zero-to-One Engineering"),
+    ("ROLE",       "CS undergrad"),
+    ("FOCUS",      "Cross-Functional Orchestrator"),
+    ("",           "Full Stack Developer"),
+    ("",           "Zero-to-One Engineer"),
     ("---",        ""),
     ("STACK",      "Python · JavaScript · TypeScript"),
     ("",           "React · Next.js · Node.js"),
     ("",           "C · C++ · Java"),
     ("",           "Git · Linux · Docker"),
     ("---",        ""),
-    ("NOW",        "Building systems that matter"),
-    ("",           "Software Engineering & AI"),
+    ("NOW",        "creating bridge between software and Ai"),
     ("---",        ""),
     ("LINKS",      "github.com/Abdullah-Shahriar"),
     ("",           "linkedin.com/in/abdullah-shahriar-a24371350"),
@@ -132,7 +131,7 @@ def generate_info_card() -> str:
     parts.append(f'<text x="{PAD_X}" y="{y + 5}" fill="{PROMPT_COLOR}" '
                  f'font-family="\'Courier New\', monospace" font-size="{FONT_SIZE}" '
                  f'class="blink" style="animation-delay: {cursor_delay:.2f}s">'
-                 f'❯ _</text>')
+                 f'loading ....</text>')
 
     parts.append("</svg>")
     return "\n".join(parts)

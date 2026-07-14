@@ -5,7 +5,7 @@
 <circle cx="16" cy="15" r="5" fill="#ff5f56"/>
 <circle cx="32" cy="15" r="5" fill="#ffbd2e"/>
 <circle cx="48" cy="15" r="5" fill="#27c93f"/>
-<text x="245" y="19" text-anchor="middle" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">abdullah@dev</text>
+<text x="245" y="19" text-anchor="middle" fill="#8b949e" font-family="'Courier New', monospace" font-size="11">Welcome To shahriar City</text>
 <style>
 
     .info-line {
@@ -27,20 +27,19 @@
     }
     
 </style>
-<text x="20" y="45" class="info-line" style="animation-delay: 0.00s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">ROLE  </tspan><tspan fill="#c9d1d9">CSE Undergrad · Bangladesh</tspan></text>
-<text x="20" y="65" class="info-line" style="animation-delay: 0.15s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">FOCUS  </tspan><tspan fill="#c9d1d9">Cross-Functional Orchestration</tspan></text>
-<text x="32" y="85" class="info-line" style="animation-delay: 0.30s"><tspan fill="#c9d1d9">  Full Stack Development</tspan></text>
-<text x="32" y="105" class="info-line" style="animation-delay: 0.45s"><tspan fill="#c9d1d9">  Zero-to-One Engineering</tspan></text>
+<text x="20" y="45" class="info-line" style="animation-delay: 0.00s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">ROLE  </tspan><tspan fill="#c9d1d9">CS undergrad</tspan></text>
+<text x="20" y="65" class="info-line" style="animation-delay: 0.15s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">FOCUS  </tspan><tspan fill="#c9d1d9">Cross-Functional Orchestrator</tspan></text>
+<text x="32" y="85" class="info-line" style="animation-delay: 0.30s"><tspan fill="#c9d1d9">  Full Stack Developer</tspan></text>
+<text x="32" y="105" class="info-line" style="animation-delay: 0.45s"><tspan fill="#c9d1d9">  Zero-to-One Engineer</tspan></text>
 <line x1="20" y1="129" x2="470" y2="129" stroke="#30363d" stroke-width="0.5" opacity="0" style="animation: lineReveal 0.3s 0.60s forwards"/>
 <text x="20" y="137.0" class="info-line" style="animation-delay: 0.75s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">STACK  </tspan><tspan fill="#c9d1d9">Python · JavaScript · TypeScript</tspan></text>
 <text x="32" y="157.0" class="info-line" style="animation-delay: 0.90s"><tspan fill="#c9d1d9">  React · Next.js · Node.js</tspan></text>
 <text x="32" y="177.0" class="info-line" style="animation-delay: 1.05s"><tspan fill="#c9d1d9">  C · C++ · Java</tspan></text>
 <text x="32" y="197.0" class="info-line" style="animation-delay: 1.20s"><tspan fill="#c9d1d9">  Git · Linux · Docker</tspan></text>
 <line x1="20" y1="221.0" x2="470" y2="221.0" stroke="#30363d" stroke-width="0.5" opacity="0" style="animation: lineReveal 0.3s 1.35s forwards"/>
-<text x="20" y="229.0" class="info-line" style="animation-delay: 1.50s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">NOW  </tspan><tspan fill="#c9d1d9">Building systems that matter</tspan></text>
-<text x="32" y="249.0" class="info-line" style="animation-delay: 1.65s"><tspan fill="#c9d1d9">  Software Engineering &amp; AI</tspan></text>
-<line x1="20" y1="273.0" x2="470" y2="273.0" stroke="#30363d" stroke-width="0.5" opacity="0" style="animation: lineReveal 0.3s 1.80s forwards"/>
-<text x="20" y="281.0" class="info-line" style="animation-delay: 1.95s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">LINKS  </tspan><tspan fill="#c9d1d9">github.com/Abdullah-Shahriar</tspan></text>
-<text x="32" y="301.0" class="info-line" style="animation-delay: 2.10s"><tspan fill="#c9d1d9">  linkedin.com/in/abdullah-shahriar-a24371350</tspan></text>
-<text x="20" y="326.0" fill="#58a6ff" font-family="'Courier New', monospace" font-size="12" class="blink" style="animation-delay: 2.25s">❯ _</text>
+<text x="20" y="229.0" class="info-line" style="animation-delay: 1.50s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">NOW  </tspan><tspan fill="#c9d1d9">creating bridge between software and Ai</tspan></text>
+<line x1="20" y1="253.0" x2="470" y2="253.0" stroke="#30363d" stroke-width="0.5" opacity="0" style="animation: lineReveal 0.3s 1.65s forwards"/>
+<text x="20" y="261.0" class="info-line" style="animation-delay: 1.80s"><tspan fill="#58a6ff">❯ </tspan><tspan fill="#8b949e">LINKS  </tspan><tspan fill="#c9d1d9">github.com/Abdullah-Shahriar</tspan></text>
+<text x="32" y="281.0" class="info-line" style="animation-delay: 1.95s"><tspan fill="#c9d1d9">  linkedin.com/in/abdullah-shahriar-a24371350</tspan></text>
+<text x="20" y="306.0" fill="#58a6ff" font-family="'Courier New', monospace" font-size="12" class="blink" style="animation-delay: 2.10s">loading ....</text>
 </svg>
