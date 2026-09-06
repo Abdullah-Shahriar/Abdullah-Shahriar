@@ -1,45 +1,10 @@
 {
   "user": "Abdullah-Shahriar",
-  "fetched_at": "2026-09-05T09:52:01.973996+00:00",
+  "fetched_at": "2026-09-06T10:09:20.094942+00:00",
   "total_contributions": 164,
   "current_streak": 0,
   "max_streak": 3,
   "days": [
-    {
-      "date": "2025-08-31",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-01",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-02",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-04",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-06",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-07",
       "count": 0,
@@ -1857,6 +1822,11 @@
     },
     {
       "date": "2026-09-05",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-09-06",
       "count": 0,
       "level": 0
     }
