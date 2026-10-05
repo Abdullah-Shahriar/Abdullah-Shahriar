@@ -125,7 +125,7 @@
 <rect x="217" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 0.460s; transform-origin: 222.5px 44.5px"/>
 <rect x="217" y="53" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 0.465s; transform-origin: 222.5px 58.5px"/>
 <rect x="217" y="67" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 0.470s; transform-origin: 222.5px 72.5px"/>
-<rect x="217" y="81" width="11" height="11" rx="2" ry="2" fill="#0e4429" class="hm-cell" style="animation-delay: 0.475s; transform-origin: 222.5px 86.5px"/>
+<rect x="217" y="81" width="11" height="11" rx="2" ry="2" fill="#006d32" class="hm-cell" style="animation-delay: 0.475s; transform-origin: 222.5px 86.5px"/>
 <rect x="217" y="95" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 0.480s; transform-origin: 222.5px 100.5px"/>
 <rect x="217" y="109" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 0.485s; transform-origin: 222.5px 114.5px"/>
 <rect x="231" y="25" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 0.490s; transform-origin: 236.5px 30.5px"/>
@@ -159,8 +159,8 @@
 <rect x="287" y="25" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 0.630s; transform-origin: 292.5px 30.5px"/>
 <rect x="287" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 0.635s; transform-origin: 292.5px 44.5px"/>
 <rect x="287" y="53" width="11" height="11" rx="2" ry="2" fill="#0e4429" class="hm-cell" style="animation-delay: 0.640s; transform-origin: 292.5px 58.5px"/>
-<rect x="287" y="67" width="11" height="11" rx="2" ry="2" fill="#0e4429" class="hm-cell" style="animation-delay: 0.645s; transform-origin: 292.5px 72.5px"/>
-<rect x="287" y="81" width="11" height="11" rx="2" ry="2" fill="#006d32" class="hm-cell" style="animation-delay: 0.650s; transform-origin: 292.5px 86.5px"/>
+<rect x="287" y="67" width="11" height="11" rx="2" ry="2" fill="#006d32" class="hm-cell" style="animation-delay: 0.645s; transform-origin: 292.5px 72.5px"/>
+<rect x="287" y="81" width="11" height="11" rx="2" ry="2" fill="#26a641" class="hm-cell" style="animation-delay: 0.650s; transform-origin: 292.5px 86.5px"/>
 <rect x="287" y="95" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 0.655s; transform-origin: 292.5px 100.5px"/>
 <rect x="287" y="109" width="11" height="11" rx="2" ry="2" fill="#0e4429" class="hm-cell" style="animation-delay: 0.660s; transform-origin: 292.5px 114.5px"/>
 <rect x="301" y="25" width="11" height="11" rx="2" ry="2" fill="#26a641" class="hm-cell" style="animation-delay: 0.665s; transform-origin: 306.5px 30.5px"/>
@@ -283,8 +283,8 @@
 <rect x="525" y="95" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.250s; transform-origin: 530.5px 100.5px"/>
 <rect x="525" y="109" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.255s; transform-origin: 530.5px 114.5px"/>
 <rect x="539" y="25" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.260s; transform-origin: 544.5px 30.5px"/>
-<rect x="539" y="39" width="11" height="11" rx="2" ry="2" fill="#0e4429" class="hm-cell" style="animation-delay: 1.265s; transform-origin: 544.5px 44.5px"/>
-<rect x="539" y="53" width="11" height="11" rx="2" ry="2" fill="#0e4429" class="hm-cell" style="animation-delay: 1.270s; transform-origin: 544.5px 58.5px"/>
+<rect x="539" y="39" width="11" height="11" rx="2" ry="2" fill="#006d32" class="hm-cell" style="animation-delay: 1.265s; transform-origin: 544.5px 44.5px"/>
+<rect x="539" y="53" width="11" height="11" rx="2" ry="2" fill="#006d32" class="hm-cell" style="animation-delay: 1.270s; transform-origin: 544.5px 58.5px"/>
 <rect x="539" y="67" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.275s; transform-origin: 544.5px 72.5px"/>
 <rect x="539" y="81" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.280s; transform-origin: 544.5px 86.5px"/>
 <rect x="539" y="95" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.285s; transform-origin: 544.5px 100.5px"/>
@@ -302,7 +302,7 @@
 <rect x="567" y="67" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.345s; transform-origin: 572.5px 72.5px"/>
 <rect x="567" y="81" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.350s; transform-origin: 572.5px 86.5px"/>
 <rect x="567" y="95" width="11" height="11" rx="2" ry="2" fill="#0e4429" class="hm-cell" style="animation-delay: 1.355s; transform-origin: 572.5px 100.5px"/>
-<rect x="567" y="109" width="11" height="11" rx="2" ry="2" fill="#006d32" class="hm-cell" style="animation-delay: 1.360s; transform-origin: 572.5px 114.5px"/>
+<rect x="567" y="109" width="11" height="11" rx="2" ry="2" fill="#26a641" class="hm-cell" style="animation-delay: 1.360s; transform-origin: 572.5px 114.5px"/>
 <rect x="581" y="25" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.365s; transform-origin: 586.5px 30.5px"/>
 <rect x="581" y="39" width="11" height="11" rx="2" ry="2" fill="#0e4429" class="hm-cell" style="animation-delay: 1.370s; transform-origin: 586.5px 44.5px"/>
 <rect x="581" y="53" width="11" height="11" rx="2" ry="2" fill="#0e4429" class="hm-cell" style="animation-delay: 1.375s; transform-origin: 586.5px 58.5px"/>
@@ -394,8 +394,8 @@
 <rect x="749" y="81" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.805s; transform-origin: 754.5px 86.5px"/>
 <rect x="749" y="95" width="11" height="11" rx="2" ry="2" fill="#006d32" class="hm-cell" style="animation-delay: 1.810s; transform-origin: 754.5px 100.5px"/>
 <rect x="749" y="109" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.815s; transform-origin: 754.5px 114.5px"/>
-<rect x="763" y="25" width="11" height="11" rx="2" ry="2" fill="#0e4429" class="hm-cell" style="animation-delay: 1.820s; transform-origin: 768.5px 30.5px"/>
-<rect x="763" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.825s; transform-origin: 768.5px 44.5px"/>
+<rect x="763" y="25" width="11" height="11" rx="2" ry="2" fill="#006d32" class="hm-cell" style="animation-delay: 1.820s; transform-origin: 768.5px 30.5px"/>
+<rect x="763" y="39" width="11" height="11" rx="2" ry="2" fill="#39d353" class="hm-cell" style="animation-delay: 1.825s; transform-origin: 768.5px 44.5px"/>
 <rect x="763" y="53" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.830s; transform-origin: 768.5px 58.5px"/>
 <rect x="763" y="67" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.835s; transform-origin: 768.5px 72.5px"/>
 <rect x="763" y="81" width="11" height="11" rx="2" ry="2" fill="#161b22" class="hm-cell" style="animation-delay: 1.840s; transform-origin: 768.5px 86.5px"/>
@@ -408,6 +408,6 @@
 <rect x="696" y="138" width="11" height="11" rx="2" fill="#26a641"/>
 <rect x="709" y="138" width="11" height="11" rx="2" fill="#39d353"/>
 <text x="724" y="147" class="hm-text" font-size="9">More</text>
-<text x="35" y="147" class="hm-text" font-size="10">177 contributions in the last year</text>
-<text x="35" y="160" class="hm-text" font-size="9">Current streak: 1 days  ·  Longest streak: 3 days</text>
+<text x="35" y="147" class="hm-text" font-size="10">198 contributions in the last year</text>
+<text x="35" y="160" class="hm-text" font-size="9">Current streak: 2 days  ·  Longest streak: 3 days</text>
 </svg>
