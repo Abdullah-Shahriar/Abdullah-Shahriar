@@ -1,45 +1,10 @@
 {
   "user": "Abdullah-Shahriar",
-  "fetched_at": "2026-11-07T12:19:26.983366+00:00",
-  "total_contributions": 240,
-  "current_streak": 1,
+  "fetched_at": "2026-11-08T12:38:44.972659+00:00",
+  "total_contributions": 244,
+  "current_streak": 2,
   "max_streak": 7,
   "days": [
-    {
-      "date": "2025-11-02",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-04",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-06",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-07",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-08",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-09",
       "count": 0,
@@ -1857,8 +1822,13 @@
     },
     {
       "date": "2026-11-07",
-      "count": 2,
-      "level": 2
+      "count": 3,
+      "level": 3
+    },
+    {
+      "date": "2026-11-08",
+      "count": 1,
+      "level": 1
     }
   ]
 }
